@@ -123,3 +123,7 @@ const authService = new Authentication();
 export default authService;
 
 ```
+
+## File related works 
+Storage related work `(createFile / update file / read or get File / delete file)` CURD operations.
+[https://appwrite.io/docs/references/cloud/client-web/storage]("https://appwrite.io/docs/references/cloud/client-web/storage")
